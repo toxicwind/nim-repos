@@ -1,7 +1,7 @@
 # WTF.md — what 25 repos collectively reveal about NIM's real behavior
 
 Forensic narrative from AST + text mining of every cloned repo in
-`/home/toxic/estate/ranch/nim-repos/`. Not docs. Not forum. Code.
+`/home/toxic/pens/estate/ranch/nim-repos/`. Not docs. Not forum. Code.
 
 ## The core WTF: NIM is three APIs wearing one trench coat
 

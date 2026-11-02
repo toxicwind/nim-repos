@@ -7,7 +7,7 @@ repo dead for a year. Rank first, then mine deepest from the top 20%.
 import json, math, os, re, subprocess, time
 from datetime import datetime, timezone
 
-ROOT = "/home/toxic/estate/ranch/nim-repos"
+ROOT = "/home/toxic/pens/estate/ranch/nim-repos"
 META = json.load(open(os.path.join(ROOT, "repo_meta.json")))
 NOW = time.time()
 
