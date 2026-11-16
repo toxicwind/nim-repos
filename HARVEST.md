@@ -1,6 +1,6 @@
 # NIM repo harvest — UUID-audit evidence + patterns
 
-Harvested 2026-09-20. 23 repos cloned to `/home/toxic/pens/estate/ranch/nim-repos/`
+Harvested 2026-09-20. 23 repos cloned to `/home/toxic/pens/Pens/ranch/nim-repos/`
 (one dir per repo, `--depth 1`). Ranked by `rank_repos.py` → `RANKED.md`
 (recency 50% + relevance 45% + stars capped at 5% — popularity is not evidence).
 
